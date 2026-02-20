@@ -1,4 +1,4 @@
-
+I’m Rachel Kibler! I test software, speak at conferences about testing and AI, and think a lot about how systems fail in interesting ways. 
 
 <!--
 **racheljoi/racheljoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
